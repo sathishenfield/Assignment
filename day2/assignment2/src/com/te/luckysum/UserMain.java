@@ -13,7 +13,7 @@ public class UserMain {
 		
 		else if(number2==13)
 		{
-			
+			return number1;
 		}
 		
 
